@@ -55,7 +55,7 @@ People *love* thorough bug reports. I'm not even kidding.
 ## Use a Consistent Coding Style
 
 * You can use any editor you like, but ensure your code format adheres to our style.
-* Follow the [Go Code Review Comments](https://github.com/golang/go/wiki/CodeReviewComments) for style guidance.
+* Follow the [Go Code Review Comments](https://go.dev/wiki/CodeReviewComments) for style guidance.
 
 ## Open To Suggested Improvements
 
