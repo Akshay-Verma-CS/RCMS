@@ -1,7 +1,3 @@
-Sure, here's the updated Markdown file for your RCMS project without the usage section:
-
----
-
 # RCMS (Remote Container Manager)
 
 ## Introduction
