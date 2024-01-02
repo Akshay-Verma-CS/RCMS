@@ -1,8 +1,8 @@
-# RCMS (Remote Container Manager)
+# RCMS (Remote Container Management System)
 
 ## Introduction
 
-RCMS, short for Remote Container Manager, is an innovative application developed using the Go Fiber framework. It is designed to manage containers and virtual machines (VMs) on remote servers, such as EC2 instances or other cloud-based platforms. This tool aims to simplify and automate the process of managing containers and VMs remotely, making it an essential utility for developers and system administrators.
+RCMS, short for Remote Container Management System, is an innovative application developed using the Go Fiber framework. It is designed to manage containers and virtual machines (VMs) on remote servers, such as EC2 instances or other cloud-based platforms. This tool aims to simplify and automate the process of managing containers and VMs remotely, making it an essential utility for developers and system administrators.
 
 ## Features
 
@@ -20,7 +20,7 @@ To install RCMS, follow these steps:
 1. Ensure you have Go installed on your system.
 2. Clone the RCMS repository:
    ```bash
-   git clone https://github.com/yourusername/RCMS.git
+   git clone https://github.com/Akshay-Verma-CS/RCMS.git
    ```
 3. Navigate to the RCMS directory and build the application:
    ```bash
@@ -38,7 +38,7 @@ Contributions to RCMS are welcome! If you're interested in contributing, please 
 4. Push to the branch (`git push origin feature-branch`).
 5. Create a new Pull Request.
 
-Please read [CONTRIBUTING.md](LINK-TO-CONTRIBUTING) for details on our code of conduct and the process for submitting pull requests.
+Please read [CONTRIBUTING.md](https://github.com/Akshay-Verma-CS/RCMS/blob/main/CONTRIBUTING.md) for details on our code of conduct and the process for submitting pull requests.
 
 ## License
 
@@ -48,4 +48,3 @@ This project is licensed under the MIT License - see the [LICENSE](https://githu
 
 - Hat tip to anyone whose code was used
 - Inspiration
-- etc.
